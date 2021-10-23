@@ -11,7 +11,14 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: "Soy Ingeniero de Software Java desde hace varios años, soy un apasionado de la tecnología y creo que el desarrollo de software puede mejorar las vidas de muchos.\n\r\nLa ingeniería de software me ha cautivado a tal grado que no lo veo como mi trabajo, más bien es mi estilo de vida. Un estilo que me reta cada día.\n"
+    content: >
+      Soy **Ingeniero de Software** **Java **desde hace varios años, soy un
+      apasionado de la tecnología y creo que el desarrollo de software puede
+      mejorar la vida de muchos.
+
+
+      > La ingeniería de software me ha cautivado a tal grado que no lo veo como
+      mi trabajo, más bien es mi estilo de vida, un estilo que me reta cada día.
     actions:
       - label: Contact Me
         url: /contact
