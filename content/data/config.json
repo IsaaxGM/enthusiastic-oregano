@@ -40,6 +40,13 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/isaaxgm/",
+                "style": "icon",
+                "icon_class": "linkedin",
+                "new_window": true
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/IsaaxGM",
                 "style": "icon",
@@ -58,13 +65,6 @@
                 "url": "https://www.facebook.com/IsaaxGM",
                 "style": "icon",
                 "icon_class": "facebook",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/isaaxgm/",
-                "style": "icon",
-                "icon_class": "linkedin",
                 "new_window": true
             },
             {
