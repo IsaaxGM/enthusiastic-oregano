@@ -71,16 +71,7 @@
     },
     "footer": {
         "content": "&copy; IsaaxGM. ALL RIGHTS RESERVED",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
+        "links": []
     },
     "domain": "https://enthusiastic-oregano-24fc6.netlify.app"
 }
