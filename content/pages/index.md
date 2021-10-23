@@ -20,7 +20,7 @@ sections:
       La ingeniería de software me ha cautivado a tal grado que no lo veo como
       mi trabajo, más bien es mi estilo de vida, un estilo que me reta cada día.
     actions:
-      - label: Contact Me
+      - label: contáctame
         url: /contact
         style: button
   - section_id: recent-posts
