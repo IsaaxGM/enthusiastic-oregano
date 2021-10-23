@@ -10,7 +10,7 @@ sections:
       constante evolución.
   - section_id: about
     type: section_content
-    title: About
+    title: sobre mi
     content: >
       Soy **Ingeniero de Software Java** desde hace varios años, soy un
       apasionado de la tecnología y creo que el desarrollo de software puede
