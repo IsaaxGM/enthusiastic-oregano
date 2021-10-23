@@ -12,7 +12,7 @@ sections:
     type: section_content
     title: About
     content: >
-      Soy **Ingeniero de Software** **Java **desde hace varios años, soy un
+      Soy **Ingeniero de Software Java** desde hace varios años, soy un
       apasionado de la tecnología y creo que el desarrollo de software puede
       mejorar la vida de muchos.
 
