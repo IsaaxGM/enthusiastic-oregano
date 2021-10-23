@@ -24,7 +24,7 @@ sections:
         label: Asunto
         default_value: Please select
         options:
-          - Error on the site
+          - 'Error en '
           - Sponsorship
           - Other
       - input_type: textarea
