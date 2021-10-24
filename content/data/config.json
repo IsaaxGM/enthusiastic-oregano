@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "Isaac García Montes",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
@@ -7,7 +7,7 @@
         "title": "Isaac García",
         "tagline": "Software Engineer",
         "profile_img": "/images/IsaaxGM_Perfil.png",
-        "profile_img_alt": "Author avatar",
+        "profile_img_alt": "Isaac García Montes",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
