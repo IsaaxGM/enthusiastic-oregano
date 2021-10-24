@@ -44,9 +44,14 @@ seo:
       relativeUrl: true
 layout: post
 ---
+*El futuro se escribe cada día y siempre va de la mano de la tecnología*. El desarrollo de software se puede volver un hobby muy redituable
 
-**A Weekend in Japan** vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+**No importa tu profesión u oficio **te puede ayudar a resolver una necesidad en tu área, automatizar un proceso o crear una aplicación que te facilite la vida. Teniendo esta habilidad te puedes abrir camino tu solo y adaptarlo completamente a tus necesidades.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+**Mejoraran tus ingresos** indudablemente, aunque no debe ser tu mayor motivación, pero si hay que decir que es una de las áreas bien pagadas. Ya sea que te decidas a dejar tu trabajo actual o ser un freelance en tus ratos libres, sin duda tus ingresos incrementaran.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+**La tecnología cambia tu visión**. Cuando te adentras en el desarrollo de software veras de forma distinta la tecnología y podrás apreciar todos sus beneficios, la veras como una herramienta de trabajo, internet será tu maestro y tu guía, ya no querrás perder el tiempo viendo videos de gatitos (bueno tal vez solo un poco) sino tendrás la ambición de seguir aprendiendo mas día con día.
+
+**Mejora tu pensamiento analítico. **Tu forma de pensar será más minuciosa, mejoraras en la resolución de problemas. Tendrás la habilidad de abstraer una idea y plasmarla en código. El simple hecho de empezar a estudiar programación tu lógica se empieza a agudizar y tu cerebro trabaja más que nunca.
+
+**No serás obsoleto.** Siempre y cuando te mantengas en constante aprendizaje será muy difícil que te vuelvas obsoleto. La tecnología evoluciona constantemente y si o si tienes que evolucionar con ella.
