@@ -1,7 +1,7 @@
 ---
 title: Sobre mí
 subtitle: Una breve descripción acerca de mí y mi trabajo.
-img_path: images/about.jpg
+img_path: /images/Isaac_Garcia_Berlin.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
