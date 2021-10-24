@@ -52,6 +52,6 @@ layout: post
 
 **La tecnología cambia tu visión**. Cuando te adentras en el desarrollo de software veras de forma distinta la tecnología y podrás apreciar todos sus beneficios, la veras como una herramienta de trabajo, internet será tu maestro y tu guía, ya no querrás perder el tiempo viendo videos de gatitos (bueno tal vez solo un poco) sino tendrás la ambición de seguir aprendiendo mas día con día.
 
-\*\*Mejora tu pensamiento analítico. \*\*Tu forma de pensar será más minuciosa, mejoraras en la resolución de problemas. Tendrás la habilidad de abstraer una idea y plasmarla en código. El simple hecho de empezar a estudiar programación tu lógica se empieza a agudizar y tu cerebro trabaja más que nunca.
+**Mejora tu pensamiento analítico.** Tu forma de pensar será más minuciosa, mejoraras en la resolución de problemas. Tendrás la habilidad de abstraer una idea y plasmarla en código. El simple hecho de empezar a estudiar programación tu lógica se empieza a agudizar y tu cerebro trabaja más que nunca.
 
 **No serás obsoleto.** Siempre y cuando te mantengas en constante aprendizaje será muy difícil que te vuelvas obsoleto. La tecnología evoluciona constantemente y si o si tienes que evolucionar con ella.
