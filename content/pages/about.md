@@ -31,12 +31,13 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**Isaac García Montes** es un backend developer de México. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Isaac García Montes** es un Java backend developer de Cuernavaca, Morelos, México. Siendo TSU y haber pasado por la carrera de Ciencias de la Computación, en 2012 ya teniendo una seguridad en programación me ofrecieron mi primer empleo como desarrollador gracias a un curso el cual la intención era captar talento. Así recibí una capacitación y mi primer trabajo como developer en C#. Actualmente enfocado totalmente en Java y desarrollando aplicaciones web. En 2019 pude obtener mi titulo de Ingeniero y mi preparación ha sido constante.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+He laborado para empresas bancarias tanto nacionales como extranjeras, desarrollos web para control interno de empresas privadas, actualmente desarrollando una aplicación web para la gestión y seguimiento de identificación vehicular.
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> Sólo podemos ver poco del futuro, pero lo suficiente para darnos cuenta de que hay mucho que hacer.
+> Alan Turing
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Actualmente estudiando Data Science y Web 3.0.
 
 *¡Gracias por llegar hasta aquí!*
