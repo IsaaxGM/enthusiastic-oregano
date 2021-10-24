@@ -18,7 +18,7 @@ sections:
 
 
       La ingeniería de software me ha cautivado a tal grado que no lo veo como
-      mi trabajo, más bien es mi estilo de vida, un estilo que me reta cada día.
+      mi trabajo, más bien es mi estilo de vida que me reta cada día.
     actions:
       - label: contáctame
         url: /contact
