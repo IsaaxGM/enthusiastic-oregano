@@ -9,7 +9,7 @@ date: '2019-03-24'
 thumb_img_path: images/2.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
 content_img_path: images/2.jpg
-content_img_alt: Portátil Negra Y Gris Encendida Haciendo Códigos De Computadora
+content_img_alt: Portátil Encendida Haciendo Códigos De Computadora
 seo:
   title: A Weekend in Japan
   description: >-
