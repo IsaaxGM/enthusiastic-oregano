@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-subtitle: This is a short page about me and my work.
+subtitle: Una breve descripción acerca de mí y mi trabajo.
 img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
