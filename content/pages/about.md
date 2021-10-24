@@ -37,11 +37,9 @@ He laborado para empresas bancarias tanto nacionales como extranjeras, desarroll
 
 > Sólo podemos ver poco del futuro, pero lo suficiente para darnos cuenta de que hay mucho que hacer.
 >
-> \<cite>
->
-> Alan Turing \</cite>
->
->
+> \<cite>Alan Turing \</cite>
+
+
 
 Actualmente estudiando Data Science y Web 3.0.
 
