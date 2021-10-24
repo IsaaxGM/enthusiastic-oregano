@@ -37,6 +37,7 @@ sections:
         label: >-
           Entiendo que este formulario está almacenando mi información enviada
           para que puedan ser contactados.
+        is_required: true
     submit_label: enviar
 seo:
   title: Contact
