@@ -5,7 +5,7 @@ img_path: /images/Isaac_Garcia_Berlin.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: Sobre Isaac García Montes IsaaxGM
-  description: This is the about me page
+  description: Software Engineer - Java Backend Developer - WEB3.0
   extra:
     - name: 'og:type'
       value: website
