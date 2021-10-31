@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: Software Engineer - Java Backend Developer - WEB3.0
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/Isaac_Garcia_Berlin.jpg
       relativeUrl: true
 layout: page
 ---
