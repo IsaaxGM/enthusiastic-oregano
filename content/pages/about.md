@@ -4,7 +4,7 @@ subtitle: Una breve descripción acerca de mí y mi trabajo.
 img_path: /images/Isaac_Garcia_Berlin.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
-  title: Sobre Isaac García Montes 
+  title: Sobre Isaac García Montes IsaaxGM
   description: This is the about me page
   extra:
     - name: 'og:type'
