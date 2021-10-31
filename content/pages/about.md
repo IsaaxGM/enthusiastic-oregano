@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Sobre Isaac García Montes IsaaxGM
       keyName: property
     - name: 'og:description'
       value: Software Engineer - Java Backend Developer - WEB3.0
