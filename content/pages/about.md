@@ -17,7 +17,7 @@ seo:
       value: Software Engineer - Java Backend Developer - WEB3.0
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/Isaac_Garcia_Berlin.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
