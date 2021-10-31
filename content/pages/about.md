@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'
-      value: This is the about me page
+      value: Software Engineer - Java Backend Developer - WEB3.0
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
