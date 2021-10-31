@@ -55,7 +55,7 @@ seo:
     - name: 'twitter:description'
       value: Ingeniero de Software Java desde hace varios años, soy un apasionado de la tecnología y creo que el desarrollo de software puede mejorar la vida de muchas personas.
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/Isaac_Garcia_Berlin.jpg
       relativeUrl: true
 layout: advanced
 ---
