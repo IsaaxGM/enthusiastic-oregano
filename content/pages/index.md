@@ -39,7 +39,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Isaac García Montes | Java Software Engineer
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
