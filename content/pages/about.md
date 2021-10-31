@@ -14,7 +14,7 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: Software Engineer - Java Backend Developer - WEB3.0
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
