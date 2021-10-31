@@ -45,7 +45,7 @@ seo:
       value: Ingeniero de Software Java desde hace varios años, soy un apasionado de la tecnología y creo que el desarrollo de software puede mejorar la vida de muchas personas.
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/Isaac_Garcia_Berlin.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
