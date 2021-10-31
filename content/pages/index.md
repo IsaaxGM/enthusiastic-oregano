@@ -33,7 +33,7 @@ sections:
         style: button
 seo:
   title: Isaac García Montes | Java Software Engineer
-  description: The preview of the Fresh theme
+  description: Ingeniero de Software Java desde hace varios años, soy un apasionado de la tecnología y creo que el desarrollo de software puede mejorar la vida de muchas personas.
   extra:
     - name: 'og:type'
       value: website
