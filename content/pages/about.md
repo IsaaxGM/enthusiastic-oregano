@@ -2,7 +2,7 @@
 title: Sobre mí
 subtitle: Una breve descripción acerca de mí y mi trabajo.
 img_path: /images/Isaac_Garcia_Berlin.jpg
-img_alt: Portrait of a man with beard and mustache
+img_alt: Isaac García Montes en Ber
 seo:
   title: Sobre Isaac García Montes IsaaxGM
   description: Software Engineer - Java Backend Developer - WEB3.0
