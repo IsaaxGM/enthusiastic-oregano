@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: Sobre Isaac García Montes IsaaxGM
     - name: 'twitter:description'
       value: Software Engineer - Java Backend Developer - WEB3.0
     - name: 'twitter:image'
